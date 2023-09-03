@@ -40,7 +40,7 @@ class TvRemote():
                  print("voice has been updated...")
                  break
                 
-    def ad_channel(self, channel_name):
+    def add_channel(self, channel_name):
         print("Adding the channel...")
         time.sleep(3)
         
